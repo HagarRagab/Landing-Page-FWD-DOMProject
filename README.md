@@ -8,10 +8,10 @@
 <h2>Instructions</h2>
 <h3>Main features</h3>
 <ul>
-    <li>A smooth scrolling behavior when click on anchors in the nav bar
+    <ul>A smooth scrolling behavior when click on anchors in the nav bar
         <li>Using *<em>scrollIntoView</em>.</li>
         <li>Set location.hash equal anchor's href attribute.</li>
-    </li>
+    </ul>
 </ul>
 <ul>
     <h4># Creating a new section dynamically</h4>
