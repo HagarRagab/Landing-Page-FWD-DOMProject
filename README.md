@@ -8,15 +8,15 @@
 <h2>Instructions</h2>
 <h3>Main features</h3>
 <ul>
-    <ul>A smooth scrolling behavior when click on anchors in the nav bar
+    <h4> #A smooth scrolling behavior when click on anchors in the nav bar</h4>
         <li>Using *<em>scrollIntoView</em>.</li>
         <li>Set location.hash equal anchor's href attribute.</li>
-    </ul>
-    <ul>Creating a new section dynamically
+</ul>
+<ul>
+    <h4> #Creating a new section dynamically</h4>
         <li>creating a button that make a new section by cloning and set attributes of the new one.</li>
         <li>"secCounter" is a variable initialize with 4 and increment by one every time we click the button.</li>
         <li>We use this counter to set the attributes of the new section.</li>
-    </ul>
 </ul>
 <h3>Additional features</h3>
 <ul>
