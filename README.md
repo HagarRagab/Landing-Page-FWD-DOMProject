@@ -6,7 +6,6 @@
 * [Description](#Description)
 
 <h2>Instructions</h2>
-[(Back to top)](#table-of-contents)
 <h3>Main features</h3>
 - A smooth scrolling behavior when click on anchors in the nav bar
     - Using *scrollIntoView*.
@@ -21,7 +20,6 @@
     - Adding click event when we click the button and use window.scrollTop to define top = 0.
 
 <h2>Description</h2>
-[(Back to top)](#table-of-contents)
 - The **navBarAndClasses** function use to 
     - Empting navBar from any li elment to prevent duplicate anchors when we create new section.
     - Creating li in a nav bar when we start the page and when we create new section.
