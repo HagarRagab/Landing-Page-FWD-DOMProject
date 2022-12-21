@@ -12,12 +12,11 @@
         <li>Using *<em>scrollIntoView</em>.</li>
         <li>Set location.hash equal anchor's href attribute.</li>
     </ul>
-</ul>
-<ul>
-    <h4># Creating a new section dynamically</h4>
+    <ul>Creating a new section dynamically
         <li>creating a button that make a new section by cloning and set attributes of the new one.</li>
         <li>"secCounter" is a variable initialize with 4 and increment by one every time we click the button.</li>
         <li>We use this counter to set the attributes of the new section.</li>
+    </ul>
 </ul>
 <h3>Additional features</h3>
 <ul>
