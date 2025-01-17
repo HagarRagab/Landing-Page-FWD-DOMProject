@@ -5,6 +5,8 @@
 * [Instructions](#Instructions)
 * [Description](#Description)
 
+**Live demo** [click here](https://fwd-landing-page-web.netlify.app/)
+
 <h2>Instructions</h2>
 <h3>Main features</h3>
 <ul>
